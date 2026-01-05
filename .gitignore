@@ -3,3 +3,24 @@ data/
 *.db
 *.save
 .env
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+
+# Termux / local
+*.log
+*.tmp
+*.bak
+
+# Media
+assets/music/
+assets/images/
+assets/fonts/
+
+# IDEs
+.vscode/
+.idea/
+
