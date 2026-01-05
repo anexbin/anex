@@ -1,18 +1,11 @@
-# Anex - Life Gamified Meta-Game
+# Anex - Gamified Bug Bounty & AI Security Game
 
-This repository contains the foundation for **Anex**, a gamified system to track life progress, study, bug bounty labs, and personal goals.
+This repository contains the skeleton of the Anex game:
+- app/ -> GUI and main logic
+- assets/ -> icons, music, images
+- scripts/ -> automation, prompt generators
+- config/ -> user settings
+- docs/ -> documentation
+- labs/ -> practice labs
 
-## Structure
-
-- app/ – main game code, GUI, backend logic
-- assets/ – music, images, fonts
-- scripts/ – helper automation scripts
-- config/ – configuration files
-- docs/ – documentation for your progress
-
-## Goal
-
-The goal of Anex is to integrate learning, practice, and real-world lab exercises into a highly addictive interface for consistent progress.
-
-> Note: This repo is private. No personal data or sensitive info is stored here.
-
+Run `app/main.py` to start the placeholder game.

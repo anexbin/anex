@@ -1,0 +1,3 @@
+Example Bug Bounty Lab:
+- Task: Identify the logic flaw in the following API endpoint.
+- Hint: Check for unauthorized access possibilities.
