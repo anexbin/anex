@@ -1,1 +1,0 @@
-print("XP bar widget")
